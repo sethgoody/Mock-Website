@@ -50,6 +50,11 @@ nav ul li .input-group {
     border-radius: 20px;
   }
 
-  {
-    
+  .card1{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    align-items: center;
+    position: relative;
+    border-radius: 5px;
   }
