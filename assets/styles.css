@@ -9,9 +9,43 @@ nav ul {
 }
 
 nav ul li{
-    margin-right: 10px;
+    margin-right: 20px;
 }
 
 .pinterest-icon{
     color: red;
 }
+.srch{
+    color: grey;
+}
+.bell{
+    color: grey;
+}
+
+.messages{
+    color: grey;
+}
+
+.prof{
+    color: grey;
+}
+
+nav ul li form{
+    display: flex;
+    width: 100px;
+    color: black;
+
+}
+nav ul li .input-group {
+    flex: 1;
+    color: black;
+  }
+
+  nav ul li .form-control {
+    border-radius: 20px;
+    width: 20px;
+  }
+
+  nav ul li .btn {
+    border-radius: 20px;
+  }
